@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xavisean21
 - 👀 I’m interested in FULL STACK AND APP DEVELOPMENT
-- 🌱 I’m currently learning DART 
+- 🌱 I’m currently learning DART AND PYTHON 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
