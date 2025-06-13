@@ -2,7 +2,7 @@
 - 👀 I’m interested in BIOINFORMATICS AND BIOTECHNOLOGY
 - 🌱 I’m currently learning DART AND PYTHON 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... chukumah.xavier@gmail.com
 
 <!---
 xavisean21/xavisean21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
