@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xavisean21
-- 👀 I’m interested in FULL STACK AND APP DEVELOPMENT
+- 👀 I’m interested in BIOINFORMATICS AND BIOTECHNOLOGY
 - 🌱 I’m currently learning DART AND PYTHON 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
